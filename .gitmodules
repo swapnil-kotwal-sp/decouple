@@ -1,0 +1,3 @@
+[submodule "connectors"]
+	path = connectors
+	url = /Users/ketan.avalaskar/Code/Java/submodule/remote/connectors/.git/
