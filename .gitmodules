@@ -1,4 +1,4 @@
 [submodule "connectors"]
 	path = connectors
-	url = /Users/ketan.avalaskar/Code/Java/submodule/remote/connectors/.git/
+	url = https://github.com/ketan-avalaskar-sp/connectors
 	branch = master
