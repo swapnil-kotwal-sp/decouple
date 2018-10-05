@@ -13,7 +13,10 @@ int main(int argc, char** argv)
   {
     printf(i);
   }
+<<<<<<< HEAD
   printf("============================")
   printf("End of program")
+=======
+>>>>>>> server/master
   return 0;
 }
