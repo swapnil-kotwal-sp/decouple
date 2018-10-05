@@ -5,7 +5,7 @@
 
 int main(int argc, char** argv)
 {
-  print("===========================")
+  printf("===========================")
   printf("This is Connectors.c file");
   printf("==========================");
   
