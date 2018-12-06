@@ -7,4 +7,7 @@ server:
 
 clean:
 	rm -r bin
+	
+update:
+	mkdir abcd
 
