@@ -1,5 +1,6 @@
 # 7.4
 # Makefile for server
+# Testing CODEOWENRS
 
 server:
 	mkdir bin

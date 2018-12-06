@@ -2,7 +2,7 @@
 
 int main()
 {
-    printf("Namaskar");
+    printf("Testing CODEOWNERS");
     return 0;
 }
 
